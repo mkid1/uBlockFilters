@@ -1,4 +1,6 @@
 ! Title: Dagens Industri
+! Homepage: https://github.com/mkid1/uBlockFilters/blob/main/DagensIndustri
+
 
 !  https://www.di.se
 ||doubleclick.net^
