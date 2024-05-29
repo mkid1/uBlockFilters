@@ -1,0 +1,33 @@
+! Title: Dagens Industri
+
+!  https://www.di.se
+||doubleclick.net^
+||bonad.io^
+! Block all brand studio ads
+www.di.se##a[href*="/brandstudio/"]
+! Block the entire panorama ad section
+www.di.se##.site-header__panorama
+! Block the entire bandit box section
+www.di.se##.js_bandit-box.bandit-box
+! Block the entire footer icon list section
+www.di.se##.site-footer__icon-list
+! Block the entire footer actions section
+www.di.se##.site-footer__actions
+! Block the entire article disclaimer section
+www.di.se##.article__disclaimer
+! Block the entire listing box native section
+www.di.se##div.listing-box-native
+! Block the entire listing box jobs section
+www.di.se##.listing-box--jobs
+! Block the entire discount box section
+www.di.se##.discount-box
+! Block the entire service box section
+www.di.se##div.service-box
+! Block the entire Plånbokskoll section
+www.di.se##.native-box.lazy-load
+
+! Block native article
+www.di.se##.native-article
+
+! Block continuous article
+www.di.se##.js_continuous-article
